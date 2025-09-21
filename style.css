@@ -56,13 +56,6 @@ h2 a:visited {
   color: #ffffff;              
 }
 
-.ima{
-    position:absolute;
-    width: 50%;
-    size: 50%;
-    object-fit: cover;
-    pointer-events: none;
-}
 hr.one {
     border: none;
     height: 5px;
@@ -122,7 +115,7 @@ button:hover {
 }
 
 nav {
-    width: 50%;
+    width: 100%;
     align-content: center;
     background-color: #111417;
     padding: 10px 0;
@@ -171,6 +164,7 @@ nav ul li:hover>ul.dropdown {
 
 .dropdown li {
     width: 100%;
+    background-color: #f0f0f0 
 }
 
 .dropdown li a {
@@ -328,3 +322,4 @@ button#home-button:hover+.home-content {
     cursor: pointer;
     
 }
+
