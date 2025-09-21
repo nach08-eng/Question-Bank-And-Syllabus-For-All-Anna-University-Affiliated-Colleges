@@ -192,12 +192,10 @@ nav ul li:hover>ul.dropdown {
  
   #purpose, #encompasses, #syllabus, #syllabus 1 {
     width: 100%;
+    flex-wrap: wrap;
   }
 }
- #syllabus, #syllabus 1 {
-    width: 100%;
-  }
-}
+
 #purpose, #syllabus, #encompasses, #courses, #footer, #welcome, #it, section{
     width: 50%;
     margin: 30px auto;
@@ -326,6 +324,7 @@ button#home-button:hover+.home-content {
     cursor: pointer;
     
 }
+
 
 
 
