@@ -139,7 +139,7 @@ nav ul {
 nav ul li {
     position: relative;
     margin: 0 15px;
-    background color: #484747 
+    background color: #666363 
 }
 
 nav ul li a {
@@ -323,6 +323,7 @@ button#home-button:hover+.home-content {
     cursor: pointer;
     
 }
+
 
 
 
