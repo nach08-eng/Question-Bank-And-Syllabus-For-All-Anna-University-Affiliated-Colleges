@@ -190,7 +190,7 @@ nav ul li:hover>ul.dropdown {
     flex-direction: column;
   }
  
-  #purpose, #encompasses {
+  #purpose, #encompasses, #syllabus, #syllabus 1 {
     width: 100%;
   }
 }
@@ -323,6 +323,7 @@ button#home-button:hover+.home-content {
     cursor: pointer;
     
 }
+
 
 
 
