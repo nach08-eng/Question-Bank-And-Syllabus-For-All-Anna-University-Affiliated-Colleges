@@ -39,11 +39,11 @@ h4 {
 }
 
  h2 a {
-      color: rgba(238 160 248);
+      color:#00caff;
     }
 
     h2 a {
-        color: rgba(238 160 248) !important;
+        color: #00caff !important;
         
     }
  
@@ -329,6 +329,7 @@ button#home-button:hover+.home-content {
     cursor: pointer;
     
 }
+
 
 
 
