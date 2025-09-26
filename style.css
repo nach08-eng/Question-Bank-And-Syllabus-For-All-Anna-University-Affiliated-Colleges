@@ -242,7 +242,7 @@ nav ul li:hover>ul.dropdown {
 
 
 section h3 {
-    color: #00aaff;
+    color: #f5f9fa;
     margin-bottom: 10px;
 }
 
@@ -329,6 +329,7 @@ button#home-button:hover+.home-content {
     cursor: pointer;
     
 }
+
 
 
 
