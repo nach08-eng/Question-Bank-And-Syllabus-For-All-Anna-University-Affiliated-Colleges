@@ -228,7 +228,7 @@ nav ul li:hover>ul.dropdown {
 }
 
 #purpose h2, #syllabus h2, #encompasses h2, #courses h2, #footer h2, #welcome h2 {
-    color: #00caff;
+    color: rgba(238 130 238);
     margin-bottom: 10px;
     font-size: 24px;
     border-bottom: 2px solid #00caff;
@@ -329,6 +329,7 @@ button#home-button:hover+.home-content {
     cursor: pointer;
     
 }
+
 
 
 
